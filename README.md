@@ -1,0 +1,2 @@
+# Myeduc
+my first repository
